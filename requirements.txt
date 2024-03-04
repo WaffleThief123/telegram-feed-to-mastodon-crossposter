@@ -1,4 +1,4 @@
 python-telegram-bot
-Mastodon
+Mastodon.py
 ffmpeg-python
 python-dotenv
